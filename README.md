@@ -15,15 +15,15 @@ Link to Data: https://drive.google.com/open?id=0BzDpG-iUj7pnaW9oTm1QYjlud00
 
 
 ### Top 10 words in Pop:
-![alt text] (https://raw.githubusercontent.com/sarthak18593/Music-Genre-Classification-by-Lyric-Analysis/master/Images/Screen%20Shot%202017-05-28%20at%207.41.28%20PM.png)
+![alt text](https://raw.githubusercontent.com/sarthak18593/Music-Genre-Classification-by-Lyric-Analysis/master/Images/Screen%20Shot%202017-05-28%20at%207.41.28%20PM.png)
 
 ### Top 10 words in Rock:
-![alt text] (https://raw.githubusercontent.com/sarthak18593/Music-Genre-Classification-by-Lyric-Analysis/master/Images/Screen%20Shot%202017-05-28%20at%207.41.35%20PM.png)
+![alt text](https://raw.githubusercontent.com/sarthak18593/Music-Genre-Classification-by-Lyric-Analysis/master/Images/Screen%20Shot%202017-05-28%20at%207.41.35%20PM.png)
 
 
 ### Top 10 words in Metal:
-![alt text] (https://raw.githubusercontent.com/sarthak18593/Music-Genre-Classification-by-Lyric-Analysis/master/Images/Screen%20Shot%202017-05-28%20at%207.41.41%20PM.png)
+![alt text](https://raw.githubusercontent.com/sarthak18593/Music-Genre-Classification-by-Lyric-Analysis/master/Images/Screen%20Shot%202017-05-28%20at%207.41.41%20PM.png)
 
 ### Top 10 words in Hip-Hop:
-![alt text] (https://raw.githubusercontent.com/sarthak18593/Music-Genre-Classification-by-Lyric-Analysis/master/Images/Screen%20Shot%202017-05-28%20at%207.41.45%20PM.png)
+![alt text](https://raw.githubusercontent.com/sarthak18593/Music-Genre-Classification-by-Lyric-Analysis/master/Images/Screen%20Shot%202017-05-28%20at%207.41.45%20PM.png)
 
