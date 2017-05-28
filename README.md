@@ -8,3 +8,8 @@ Genre classification by lyrics is itself a clear Natural Language Processing pro
 There are a wide range of scholarly and commercial applications for automated music genre classifiers. For example, classifiers could be used to automatically analyze and sort music into large databases. Music recommendation systems could be used to automatically analyze a user’s likings and recommend appropriate songs to listen. Music classifier can be used to recommend music based on the mood of users. Similarity analysis which is a part of music
 
 Link to Data: https://drive.google.com/open?id=0BzDpG-iUj7pnaW9oTm1QYjlud00
+
+### Usage of Parts of Speech tags for different genre of songs:
+
+![alt text](https://raw.githubusercontent.com/sarthak18593/Music-Genre-Classification-by-Lyric-Analysis/master/Images/Screen%20Shot%202017-05-28%20at%207.41.17%20PM.png)
+
