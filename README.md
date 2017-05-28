@@ -6,3 +6,5 @@ Classification of music is a very important and heavily researched task in the f
 Genre classification by lyrics is itself a clear Natural Language Processing problem. The end goal of NLP is to extract some sort of meaning from text. For music genre classification, this equates to finding features to classify music using lyrics.
 
 There are a wide range of scholarly and commercial applications for automated music genre classifiers. For example, classifiers could be used to automatically analyze and sort music into large databases. Music recommendation systems could be used to automatically analyze a user’s likings and recommend appropriate songs to listen. Music classifier can be used to recommend music based on the mood of users. Similarity analysis which is a part of music
+
+Link to Data: https://drive.google.com/open?id=0BzDpG-iUj7pnaW9oTm1QYjlud00
