@@ -27,3 +27,5 @@ Link to Data: https://drive.google.com/open?id=0BzDpG-iUj7pnaW9oTm1QYjlud00
 ### Top 10 words in Hip-Hop:
 <img src="https://raw.githubusercontent.com/sarthak18593/Music-Genre-Classification-by-Lyric-Analysis/master/Images/Screen%20Shot%202017-05-28%20at%207.41.45%20PM.png" width="500">
 
+## Accuracies :
+<img src="https://raw.githubusercontent.com/sarthak18593/Music-Genre-Classification-by-Lyric-Analysis/master/Images/Screen%20Shot%202017-05-28%20at%207.41.53%20PM.png" width="500">
