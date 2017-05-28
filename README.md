@@ -15,7 +15,7 @@ Link to Data: https://drive.google.com/open?id=0BzDpG-iUj7pnaW9oTm1QYjlud00
 
 
 ### Top 10 words in Pop:
-![alt text](https://raw.githubusercontent.com/sarthak18593/Music-Genre-Classification-by-Lyric-Analysis/master/Images/Screen%20Shot%202017-05-28%20at%207.41.28%20PM.png = 20x20)
+![alt text](https://raw.githubusercontent.com/sarthak18593/Music-Genre-Classification-by-Lyric-Analysis/master/Images/Screen%20Shot%202017-05-28%20at%207.41.28%20PM.png){:width="36px" height="36px" }
 
 ### Top 10 words in Rock:
 ![alt text](https://raw.githubusercontent.com/sarthak18593/Music-Genre-Classification-by-Lyric-Analysis/master/Images/Screen%20Shot%202017-05-28%20at%207.41.35%20PM.png)
